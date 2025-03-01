@@ -1,2 +1,3 @@
 # CODEAlpha_Task_3
 Basic Chatbot
+This Python script implements a simple text-based chatbot using the Natural Language Toolkit (NLTK). It uses predefined pattern-response pairs and regular expressions to match user input and generate appropriate replies. The chatbot runs in a loop, continuously responding to user messages until the user types "bye" to exit. NLTK’s Chat class handles the conversation logic, while reflections personalizes responses by adjusting pronouns. To use the chatbot, install NLTK (pip install nltk), run the script, and start chatting. This basic chatbot can be expanded with AI-powered NLP models for more advanced interactions. 🚀
